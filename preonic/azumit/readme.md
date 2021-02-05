@@ -1,6 +1,3 @@
-# azumit-keyboard-layout
-Preonic and Planck config files for a custom QMK layout
-
 # Azumit Layout
 - Dvorak default
 - Selectable game layer
